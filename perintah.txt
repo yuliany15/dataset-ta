@@ -1,0 +1,6 @@
+e:
+cd "kesini"
+git add .
+git commit -m "perbaikan data"
+git push origin master
+--masukkan username dan password
